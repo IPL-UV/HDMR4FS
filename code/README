@@ -1,0 +1,5 @@
+This package contains three Matlab scripts:
+1 - featureScoreHDMR.m : Returns selected feaures (ordered) along with weight matrix as a vector
+2 - myLegendre.m       : Returns the extended data matrix with Legendre polynomials with a given order.
+3 - constructW         : Returns the graph matrix (W). This script is developed by Deng Cai. See the script for more details. 
+4 - D = EuDist2(fea_a,fea_b,bSqrt) : This is scipt required by constructW. 
