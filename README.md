@@ -1,6 +1,4 @@
-# HDMR4FS - HDMR method for feature selection
-
-# A Scalable Unsupervised Feature Selection  with Orthogonal Graph Representation  for Hyperspectral Images
+# HDMR4FS - A Scalable Unsupervised Feature Selection  with Orthogonal Graph Representation  for Hyperspectral Images
 
 # Abstract
 
