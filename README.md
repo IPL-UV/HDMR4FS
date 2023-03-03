@@ -35,4 +35,4 @@ Submitted, 2023
 }
 ```
 # Acknowledgements
-This work was supported by the Scientific and Technological Research Council of Turkey (TÜBITAK)-1001 (Project number: 217E032). {Gustau Camps-Valls was supported by the European Research Council (ERC) under the ERC Synergy grant project USMILE (grant agreement 855187).
+This work was supported by the Scientific and Technological Research Council of Turkey (TÜBITAK)-1001 (Project number: 217E032). Gustau Camps-Valls was supported by the European Research Council (ERC) under the ERC Synergy grant project USMILE (grant agreement 855187).
